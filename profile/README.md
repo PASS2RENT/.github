@@ -9,3 +9,7 @@ PASS2RENT is an innovative contactless car rental solution with 24/7 pick-up
 ### [Know more...](https://pass2rent.com/)
 
 </div>
+
+## Web components
+
+Integrate easily in your website the list of available cars, whatever the technology it uses. The web components are open source, and free to use or customize.
