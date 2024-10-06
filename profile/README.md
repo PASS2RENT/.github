@@ -5,4 +5,7 @@
 <br/>
 PASS2RENT is an innovative contactless car rental solution with 24/7 pick-up
 <br/>
+
+### [Know more...](https://pass2rent.com/)
+
 </div>
