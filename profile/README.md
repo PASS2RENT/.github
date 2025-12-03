@@ -94,5 +94,5 @@ Let PASS2RENT handle the complexity — you focus on growing your business.
 
 ---
 
-[1]: https://pass2rent.com/en?utm_source=chatgpt.com "PASS2RENT | The Complete Solution for Car Rentals"
-[2]: https://pass2rent.com/en/features/features-overview?utm_source=chatgpt.com "Features Overview - PASS2RENT"
+[1]: https://pass2rent.com/en "PASS2RENT | The Complete Solution for Car Rentals"
+[2]: https://pass2rent.com/en/features/features-overview "Features Overview - PASS2RENT"
