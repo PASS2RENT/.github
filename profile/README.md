@@ -14,10 +14,6 @@ Here is an updated **presentation / profile README** for PASS2RENT — revised s
 
 ---
 
-# PASS2RENT
-
----
-
 ## 🚗 What is PASS2RENT?
 
 PASS2RENT is a modern, enterprise-ready platform enabling rental companies to manage **car bookings, fleet operations, payments, vehicle access, and maintenance** — all in one unified solution. Designed to simplify and automate every aspect of vehicle rental, PASS2RENT supports small agencies to large-scale rental fleets. ([PASS2RENT][1])
