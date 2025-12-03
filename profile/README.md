@@ -16,12 +16,6 @@ Here is an updated **presentation / profile README** for PASS2RENT — revised s
 
 # PASS2RENT
 
-**Complete Platform for Car Rental & Fleet Management — Booking, Telemetry, and Contactless Rentals**
-
-[![npm version](https://img.shields.io/npm/v/pass2rent-lit-webcomponents.svg)](https://www.npmjs.com/package/pass2rent-lit-webcomponents)
-[![License](https://img.shields.io/npm/l/pass2rent-lit-webcomponents.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/PASS2RENT/pass2rent-lit-webcomponents.svg)](https://github.com/PASS2RENT/pass2rent-lit-webcomponents/stargazers)
-
 ---
 
 ## 🚗 What is PASS2RENT?
