@@ -12,9 +12,6 @@ PASS2RENT is an innovative contactless car rental solution with 24/7 pick-up
 
 **Smart Booking & Rental Management Platform — Web Components, API & Full Integrations**
 
-[![npm version](https://img.shields.io/npm/v/pass2rent-lit-webcomponents.svg)](https://www.npmjs.com/package/pass2rent-lit-webcomponents)
-[![License](https://img.shields.io/npm/l/pass2rent-lit-webcomponents.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/PASS2RENT/pass2rent-lit-webcomponents.svg)](https://github.com/PASS2RENT/pass2rent-lit-webcomponents/stargazers)
 
 ### 🔄 GitHub Actions (CI/CD)
 
